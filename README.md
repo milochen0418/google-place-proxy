@@ -1,2 +1,2 @@
 # google-place-proxy
-Proxy of Google Place API by Go 
+Proxy of Google Place API by Go !
